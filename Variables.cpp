@@ -19,6 +19,10 @@ int main(){
     int x=10,y=20,z=30;
     cout << "Result =  " << x+y+z << endl;
 
+    // Constant variable it must be assigned value
+    const int marked = 20;
+    cout << "Constant Variable = " << marked << "\n";
+
 
     return 0;
 }
